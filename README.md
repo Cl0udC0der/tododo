@@ -1,4 +1,4 @@
-# react-practice
+# Tododo Note Taking App
 
 A seemingly simple note taking app using React. I'm gonna polish this until it turns into abomination of features that have no business being there.
 
@@ -12,7 +12,9 @@ A seemingly simple note taking app using React. I'm gonna polish this until it t
 
 ### Themes with base react
 
-### Button Action
+### ~Button Action~
+
+Delete and Enter work on base page (no highlighted element)
 
 ## Back-end
 
