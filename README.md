@@ -2,6 +2,7 @@
 
 A seemingly simple note taking app using React. I'm gonna polish this until it turns into abomination of features that have no business being there.
 
+[Test it out](https://cl0udc0der.github.io/tododo/)
 ![screenshot](./Sample.png)
 
 # Todo practice
