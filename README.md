@@ -2,6 +2,8 @@
 
 A seemingly simple note taking app using React. I'm gonna polish this until it turns into abomination of features that have no business being there.
 
+![screenshot](./Sample.png)
+
 # Todo practice
 
 ## Features

@@ -22,7 +22,7 @@ function CreateArea(props) {
 					ref={props.contentRef}
 					name="content"
 					placeholder="Write a note..."
-					rows="3"
+					rows="5"
 					value={content}
 					onChange={(e) => {
 						setContent(e.target.value);
